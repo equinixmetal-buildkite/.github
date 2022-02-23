@@ -1,0 +1,2 @@
+# All proposed file changes under the `.github/` folder must be approved by the equinixmetal-buildkite owners team prior to merging
+.github/ @equinixmetal-buildkite/owners
